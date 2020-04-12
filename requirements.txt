@@ -1,0 +1,3 @@
+pytest
+mock
+git+https://github.com/googleapis/python-api-core.git@ca6c41cf460e505e6b228263170927270626222a#egg=google-api-core
